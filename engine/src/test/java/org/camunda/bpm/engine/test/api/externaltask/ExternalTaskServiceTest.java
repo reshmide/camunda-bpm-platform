@@ -34,6 +34,7 @@ import java.util.Map;
 
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.ibatis.jdbc.RuntimeSqlException;
+import org.apache.ibatis.session.SqlSessionFactory;
 import org.camunda.bpm.engine.BadUserRequestException;
 import org.camunda.bpm.engine.ParseException;
 import org.camunda.bpm.engine.ProcessEngineConfiguration;
